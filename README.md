@@ -1,10 +1,9 @@
-# **2-Day AI & Machine Learning Tutorial**
+# **Learning for Integrated Task and Motion Planning: 2025 AAAI Bridge Program**
 
 ## **📅 Event Details**
-- **Dates:** March 15-16, 2025  
-- **Location:** Online (Zoom)  
-- **Organized by:** AI Research Group  
-- **Target Audience:** Beginners & Intermediate Learners
+- **Dates:**  Tuesday-Wednesday February 25-26, 2025
+- **Venue:**   AAAI Conference on Artificial Intelligence (AAAI-25) Bridge Program
+- **Location:**  Philadelphia, Pennsylvania at the Pennsylvania Convention Center  Room 121A  
 
 ## **📝 Schedule**
 
