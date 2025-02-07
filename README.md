@@ -21,9 +21,9 @@ efficient at all levels of deliberation and decision-making. We aim to introduce
 | 10:30 AM - 11:00 AM | Break |
 | 11:00 AM - 12:30 PM | Brian Williams (MIT) |
 | 12:30 PM - 2:00 PM | Lunch (on your own; no sponsored lunch provided) |
-| 2:00 PM - 3:30 PM | Tutorial 2 -Sarah Keren (Technion) +  laser talks |
+| 2:00 PM - 3:30 PM | Jiayuan Mao (MIT) + Tutorial 2 -Sarah Keren (Technion)|
 | 3:30 PM - 4:00 PM | Break |
-| 4:00 PM - 5:30 PM | Michael Posa (UPenn)|
+| 4:00 PM - 5:30 PM | Michael Posa (UPenn) + Laser Talks|
 
 ## **Day 2**
 
