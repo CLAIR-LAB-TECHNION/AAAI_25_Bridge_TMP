@@ -1,5 +1,6 @@
 # **Learning for Integrated Task and Motion Planning: 2025 AAAI Bridge Program**
 
+
 ## **📅 Event Details**
 - **Dates:**  Tuesday-Wednesday February 25-26, 2025
 - **Venue:**   AAAI Conference on Artificial Intelligence (AAAI-25) Bridge Program
