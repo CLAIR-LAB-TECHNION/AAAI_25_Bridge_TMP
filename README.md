@@ -5,56 +5,43 @@
 - **Venue:**   AAAI Conference on Artificial Intelligence (AAAI-25) Bridge Program
 - **Location:**  Philadelphia, Pennsylvania at the Pennsylvania Convention Center  Room 121A  
 
-## **📝 Schedule**
+## **📝 Schedule (final) **
+# **Tutorial Schedule**
+**Note:** The schedule is subject to change.
 
-### **Day 1: Introduction to AI & Machine Learning**
+## **Day 1**
 
-| Time (UTC) | Session | Speaker |
-|------------|----------------------------|-----------------|
-| 10:00 AM - 10:30 AM | Welcome & Keynote | Dr. Jane Smith |
-| 10:30 AM - 12:00 PM | Machine Learning Basics | Prof. Alex Johnson |
-| 12:00 PM - 1:00 PM | Lunch Break | - |
-| 1:00 PM - 2:30 PM | Supervised Learning Techniques | Dr. Lisa Wong |
-| 2:30 PM - 3:00 PM | Q&A Session | Panel |
-| 3:00 PM - 4:00 PM | Hands-on Coding (Python) | John Doe |
+| Time | Session |
+|------------|---------------------------------|
+| 9:00 AM - 10:30 AM | Intro + Tutorial 1 - Sarah Keren (Technion) |
+| 10:30 AM - 11:00 AM | Break |
+| 11:00 AM - 12:30 PM | Brian Williams (MIT) |
+| 12:30 PM - 2:00 PM | Lunch (on your own; no sponsored lunch provided) |
+| 2:00 PM - 3:30 PM | Tutorial 2 -Sarah Keren (Technion) +  laser talks |
+| 3:30 PM - 4:00 PM | Break |
+| 4:00 PM - 5:30 PM | Michael Posa (UPenn)|
 
-### **Day 2: Advanced Topics & Applications**
+## **Day 2**
 
-| Time (UTC) | Session | Speaker |
-|------------|----------------------------|-----------------|
-| 10:00 AM - 10:30 AM | Recap & Icebreaker | Host |
-| 10:30 AM - 12:00 PM | Deep Learning & Neural Networks | Dr. Michael Lee |
-| 12:00 PM - 1:00 PM | Lunch Break | - |
-| 1:00 PM - 2:30 PM | Reinforcement Learning & AI Ethics | Dr. Emily Carter |
-| 2:30 PM - 3:00 PM | Q&A Session | Panel |
-| 3:00 PM - 4:00 PM | Project Showcase & Wrap-Up | Guest Speakers |
+| Time | Session |
+|------------|---------------------------------|
+| 9:00 AM - 10:30 AM | Tutorial 3 - Sarah Keren (Technion) |
+| 10:30 AM - 11:00 AM | Break |
+| 11:00 AM - 12:30 PM | David Held (CMU) |
+| 12:30 PM - 2:00 PM | Lunch (no sponsored lunch provided) |
+| 2:00 PM - 3:30 PM | Peter Stone (University of Texas at Austin and Sony AI) |
+| 3:30 PM - 4:00 PM | Break |
+| 4:00 PM - 5:30 PM | Panel: Peter Stone, David Held, Michael Posa, Brian Williams, Sarah Keren |
 
-## **🎤 Speaker Bios**
-- **Dr. Jane Smith** – AI Researcher at OpenAI.
-- **Prof. Alex Johnson** – Machine Learning Professor at MIT.
-- **Dr. Lisa Wong** – Data Scientist at Google.
-- **John Doe** – Python ML Engineer at TensorFlow.
-- **Dr. Michael Lee** – Deep Learning Expert at NVIDIA.
-- **Dr. Emily Carter** – AI Ethics Researcher at Stanford.
 
 ## **📌 How to Join?**
-- Register here: [Event Registration](https://example.com)
-- Join Zoom link: (Sent upon registration)
-
-## **💡 Prerequisites**
-- Basic Python programming knowledge
-- Interest in AI & Machine Learning
-- Jupyter Notebook (Recommended)
+- Register via the AAAI website: https://aaai.getregistered.net/conference-2025 
+- Join Zoom link: TBD
 
 ## **📚 Resources & Materials**
-- [Workshop Slides](https://example.com/slides)
-- [GitHub Repository](https://github.com/example-repo)
-- [Suggested Reading](https://example.com/reading)
-
+- [GitHub Repository](https://github.com/CLAIR-LAB-TECHNION/AAAI_25_Bridge_TMP)
+  
 ## **🙋 Contact Us**
-- Email: aiworkshop@example.com
-- GitHub: [github.com/aiworkshop](https://github.com/aiworkshop)
-- Twitter: [@aiworkshop](https://twitter.com/aiworkshop)
-
+- Email: Sarah Keren sarahk@technion.ac.il
 ---
 🚀 **See you at the event!** 🎉
