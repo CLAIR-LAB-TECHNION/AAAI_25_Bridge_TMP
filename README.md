@@ -1,4 +1,7 @@
 # **Learning for Integrated Task and Motion Planning: 2025 AAAI Bridge Program**
+Robotic agents are required to accomplish increasingly complex and longer-horizon tasks autonomously. This requires developing novel approaches for computing increasingly elaborate and robust plans that optimize the agents’ behavior and allow them to deal with unexpected events.
+Our bridge program aims to bring together researchers from different research communities and help catalyze the next generation of research in combining AI, machine learning and robotics and developing robots that are capable and 
+efficient at all levels of deliberation and decision-making. We aim to introduce participants coming from different disciplines to a variety of methods of cognitive systems and robotics, thus creating a bridge between robotics and AI and setting the path to the creation of novel methods that combine the tools and expertise from each discipline.
 
 
 ## **📅 Event Details**
