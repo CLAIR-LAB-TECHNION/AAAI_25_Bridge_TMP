@@ -13,6 +13,9 @@ efficient at all levels of deliberation and decision-making. We aim to introduce
 # **Tutorial Schedule**
 **Note:** The schedule is subject to change.
 
+## **Link to Labs**
+https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
+
 ## **Day 1**
 
 | Time | Session |
