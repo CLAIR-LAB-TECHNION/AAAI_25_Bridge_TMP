@@ -47,6 +47,8 @@ https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
 
 ## **📚 Resources & Materials**
 - [GitHub Repository](https://github.com/CLAIR-LAB-TECHNION/AAAI_25_Bridge_TMP)
+- https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
+
   
 ## **🙋 Contact Us**
 - Email: Sarah Keren sarahk@technion.ac.il
