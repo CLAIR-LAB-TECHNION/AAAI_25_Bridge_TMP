@@ -38,7 +38,7 @@ https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
 | 12:30 PM - 2:00 PM | Lunch (no sponsored lunch provided) |
 | 2:00 PM - 3:30 PM | Peter Stone (University of Texas at Austin and Sony AI) |
 | 3:30 PM - 4:00 PM | Break |
-| 4:00 PM - 5:30 PM | Panel: Peter Stone, David Held, Michael Posa, Brian Williams, Sarah Keren |
+| 4:00 PM - 5:30 PM | Panel: Peter Stone, David Held, Michael Posa, Brian Williams, Rachel Holladay (UPenn), Sarah Keren |
 
 
 ## **📌 How to Join?**
