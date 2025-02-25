@@ -13,6 +13,9 @@ efficient at all levels of deliberation and decision-making. We aim to introduce
 # **Tutorial Schedule**
 **Note:** The schedule is subject to change.
 
+## **Link to Labs**
+https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
+
 ## **Day 1**
 
 | Time | Session |
@@ -35,7 +38,7 @@ efficient at all levels of deliberation and decision-making. We aim to introduce
 | 12:30 PM - 2:00 PM | Lunch (no sponsored lunch provided) |
 | 2:00 PM - 3:30 PM | Peter Stone (University of Texas at Austin and Sony AI) |
 | 3:30 PM - 4:00 PM | Break |
-| 4:00 PM - 5:30 PM | Panel: Peter Stone, David Held, Michael Posa, Brian Williams, Sarah Keren |
+| 4:00 PM - 5:30 PM | Panel: Peter Stone, David Held, Michael Posa, Brian Williams, Rachel Holladay (UPenn), Sarah Keren |
 
 
 ## **📌 How to Join?**
@@ -44,6 +47,8 @@ efficient at all levels of deliberation and decision-making. We aim to introduce
 
 ## **📚 Resources & Materials**
 - [GitHub Repository](https://github.com/CLAIR-LAB-TECHNION/AAAI_25_Bridge_TMP)
+- https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
+
   
 ## **🙋 Contact Us**
 - Email: Sarah Keren sarahk@technion.ac.il
