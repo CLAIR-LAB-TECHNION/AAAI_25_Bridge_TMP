@@ -43,7 +43,7 @@ https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
 
 ## **📌 How to Join?**
 - Register via the AAAI website: https://aaai.getregistered.net/conference-2025 
-- Join Zoom link: TBD
+- Join Zoom link: https://us06web.zoom.us/j/85720310995?pwd=Xe0OhVsQgBv43bIFIS4o1Hxq1GQeTh.1
 
 ## **📚 Resources & Materials**
 - [GitHub Repository](https://github.com/CLAIR-LAB-TECHNION/AAAI_25_Bridge_TMP)
