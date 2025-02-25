@@ -27,7 +27,7 @@ https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials
 | 12:30 PM - 2:00 PM | Lunch (on your own; no sponsored lunch provided) |
 | 2:00 PM - 3:30 PM | Jiayuan Mao (MIT) + Tutorial 2 -Sarah Keren (Technion)|
 | 3:30 PM - 4:00 PM | Break |
-| 4:00 PM - 5:30 PM | Michael Posa (UPenn) + Laser Talks|
+| 4:00 PM - 5:30 PM | Michael Posa (UPenn)|
 
 ## **Day 2**
 
