@@ -3,7 +3,10 @@ Robotic agents are required to accomplish increasingly complex and longer-horizo
 Our bridge program aims to bring together researchers from different research communities and help catalyze the next generation of research in combining AI, machine learning and robotics and developing robots that are capable and 
 efficient at all levels of deliberation and decision-making. We aim to introduce participants coming from different disciplines to a variety of methods of cognitive systems and robotics, thus creating a bridge between robotics and AI and setting the path to the creation of novel methods that combine the tools and expertise from each discipline.
 
+
+
 Zoom link Day 1: https://us06web.zoom.us/j/85720310995?pwd=Xe0OhVsQgBv43bIFIS4o1Hxq1GQeTh.1
+
 Zoom link Day 2: https://us06web.zoom.us/j/83113671042?pwd=a353BYcxfh69wAaF40UdIAIMb1KUnb.1
 
 ## **📅 Event Details**
